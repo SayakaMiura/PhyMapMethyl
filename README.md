@@ -68,15 +68,15 @@ All the output files can be found found in the same folder as the input files.
 
 1. PhyMapMethyl inference
    
-In PhyMap_Supported.txt, methylation shits that are detected are listed for each branch.
+    In PhyMap_Supported.txt, methylation shits that are detected are listed for each branch.
 
 2. PhyMapMethyl inference (figure)
    
-Heatmap of beta values at detected positions are produced for each branch.
+    Heatmap of beta values at detected positions are produced for each branch.
 
 3. Tree node ID table
    
-Node map tables are saved in the same directory as the tree input file. 
+    Node map tables are saved in the same directory as the tree input file. 
 
  
 
