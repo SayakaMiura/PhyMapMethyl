@@ -62,7 +62,7 @@ For example:
 
 To perform the example data analysis, try:
 
-python3 PhyMapMethyl.py Example/input Example/Tree.nwk Tree6
+python3 PhyMapMethyl.py [path to the Example folder]/Example/input [path to the Example folder]/Example/Tree.nwk Tree6
 
 
 Output file
