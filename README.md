@@ -15,7 +15,10 @@ Dependencies
    
     phytools
 
-3. python (version 3.11.5 was tested)
+2. python (version 3.11.5 was tested)
+3. ESL
+
+   Please unzip bin.zip.
 
 
 How to prepare input files
